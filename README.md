@@ -5,3 +5,5 @@
  To use this project files, please install the following library in your local machine:
  numpy
  sklearn
+ 
+ We also implement a Neural Network model which can be found inside "Neural Network_MNIST dataset.ipynb". We use popular MNIST dataset to train and test our model. We also use a dataloader to load the data.
